@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ignaciozanotto@gmail.com
+	name = Ignacio Zanotto
